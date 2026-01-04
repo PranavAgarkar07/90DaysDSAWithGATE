@@ -15,7 +15,11 @@
 |3| 01-01-2026 | Introduction to data structures and algorithms \| DSA \| Part 2 \| GATE 2023 | Properties of algorithms| ⬜ | 🟢 |
 |4| 02-01-2026 | How to analyze algorithm \| Aposteriori analysis \| analysis of algorithm | Difference between Aposteriori and Apriori | ⬜ | 🟢 |
 |5| 02-01-2026 | How to analyze algorithm \| Apriori analysis \| analysis of algorithm | Analysis of algorithm before implementation | ⬜ | 🟢 |
-|6| 03-01-2026 | How to analyze algorithm \| Asymptotic Notations (part 1) \| analysis of algorithm |  | ⬜ | 🟢 |
+|6| 03-01-2026 | How to analyze algorithm \| Asymptotic Notations (part 1) \| analysis of algorithm | Asymptote on a graph and its analysis with algo| ⬜ | 🟢 |
+|7|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 2) \| Big O notation \| analysis of algorithm|Mathematical definition of Big O|⬜|🟢|
+|8|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 3) \| Big O notation \| analysis of algorithm|Solved questions on Big O|⬜|🟢|
+|9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 4) \| Big O notation \| analysis of algorithm|Understanding/Solving edge cases of Big O|⬜|🟢|
+|9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm||⬜|🟠|
 <!-- |1| | | | | ⬜ | -->
 
 ---
