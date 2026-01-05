@@ -19,8 +19,8 @@
 |7|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 2) \| Big O notation \| analysis of algorithm|Mathematical definition of Big O|⬜|🟢|
 |8|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 3) \| Big O notation \| analysis of algorithm|Solved questions on Big O|⬜|🟢|
 |9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 4) \| Big O notation \| analysis of algorithm|Understanding/Solving edge cases of Big O|⬜|🟢|
-|9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm||⬜|🟠|
-<!-- |1| | | | | ⬜ | -->
+|10|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm|Mathematical understanding of omega|⬜|🟢|
+<!-- |1| | | | |🟠 ⬜ | -->
 
 ---
 
