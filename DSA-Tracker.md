@@ -19,13 +19,14 @@
 |7|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 2) \| Big O notation \| analysis of algorithm|Mathematical definition of Big O|⬜|🟢|
 |8|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 3) \| Big O notation \| analysis of algorithm|Solved questions on Big O|⬜|🟢|
 |9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 4) \| Big O notation \| analysis of algorithm|Understanding/Solving edge cases of Big O|⬜|🟢|
-|10|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm|Mathematical understanding of omega|⬜|🟢|
+|10|05-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm|Mathematical understanding of omega|⬜|🟢|
+|11|06-01-26|How to analyze algorithm \| Asymptotic Notations (part 6) \| Theta notation \| analysis of algorithm|Mathematical understanding of theta|⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
 
 ## 🏆 Milestones
-- [ ] **10 Videos Completed**
+- [x] **10 Videos Completed**
 - [ ] **25 Videos Completed**
 - [ ] **50 Videos Completed**
 - [ ] **100 Videos Completed**
