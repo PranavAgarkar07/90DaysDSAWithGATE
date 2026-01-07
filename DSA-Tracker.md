@@ -21,6 +21,8 @@
 |9|04-01-26|How to analyze algorithm \| Asymptotic Notations (part 4) \| Big O notation \| analysis of algorithm|Understanding/Solving edge cases of Big O|⬜|🟢|
 |10|05-01-26|How to analyze algorithm \| Asymptotic Notations (part 5) \| Big omega notation \|analysis of algorithm|Mathematical understanding of omega|⬜|🟢|
 |11|06-01-26|How to analyze algorithm \| Asymptotic Notations (part 6) \| Theta notation \| analysis of algorithm|Mathematical understanding of theta|⬜|🟢|
+|12|06-01-26|How to analyze algorithm \| Asymptotic Notations (part 7) \| small o and small omega (ω) notation|Just an overview of small notations|⬜|🟠|
+|13|07-01-26|How to analyze algorithm \| Properties of Asymptotic Notations (part 1)|Asymptotic -ve function have no value in algorithms subject as time cannot be -ve|⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
