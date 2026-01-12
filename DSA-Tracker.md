@@ -28,8 +28,8 @@
 |15|12-01-26|How to analyze algorithm \| Properties of Asymptotic Notations (part 3)|Indepth understanding of Asymptotic functions|⬜|🟢|
 |16|12-01-26|How to Analyze Algorithm \| Practice Questions on Asymptotic Notations \| Analysis of Algorithm|Understood the actual question on the topic|⬜|🟢|
 |17|12-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #2|Studied varience in questions|⬜|🟢|
-|18|12-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #3|Comparison of functions |⬜|🟢|
-|19|12-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #4|Comparison of functions |⬜|🟢|
+|18|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #3|Comparison of functions |⬜|🟢|
+|19|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #4|Comparison of complex Functions |⬜|🟠|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
