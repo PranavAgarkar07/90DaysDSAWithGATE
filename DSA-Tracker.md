@@ -29,7 +29,8 @@
 |16|12-01-26|How to Analyze Algorithm \| Practice Questions on Asymptotic Notations \| Analysis of Algorithm|Understood the actual question on the topic|⬜|🟢|
 |17|12-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #2|Studied varience in questions|⬜|🟢|
 |18|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #3|Comparison of functions |⬜|🟢|
-|19|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #4|Comparison of complex Functions |⬜|🟠|
+|19|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #4|Comparison of complex Functions |⬜|🟢|
+|20|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #5|Comparison of complex Exponential functions |⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
