@@ -31,6 +31,11 @@
 |18|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #3|Comparison of functions |⬜|🟢|
 |19|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #4|Comparison of complex Functions |⬜|🟢|
 |20|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #5|Comparison of complex Exponential functions |⬜|🟢|
+|21|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #6|Was able to solve pyq of GATE 2017 |⬜|🟢|
+|22|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #7|Overlooked comparison to various exponential functions|⬜|🟠|
+|23|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #8|Overlooked comparison to various trigonometric functions|⬜|🟠|
+|24|14-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #9|Overlooked factorial notation complexities|⬜|🟠|
+|25|14-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 1||⬜|🟠|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
