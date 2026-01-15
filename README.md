@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
