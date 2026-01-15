@@ -35,14 +35,14 @@
 |22|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #7|Overlooked comparison to various exponential functions|⬜|🟠|
 |23|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #8|Overlooked comparison to various trigonometric functions|⬜|🟠|
 |24|14-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #9|Overlooked factorial notation complexities|⬜|🟠|
-|25|14-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 1||⬜|🟠|
+|25|14-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 1|Calculation of time complexity of for loops|⬜|🟠|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
 
 ## 🏆 Milestones
 - [x] **10 Videos Completed**
-- [ ] **25 Videos Completed**
+- [x] **25 Videos Completed**
 - [ ] **50 Videos Completed**
 - [ ] **100 Videos Completed**
 
