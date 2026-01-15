@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
