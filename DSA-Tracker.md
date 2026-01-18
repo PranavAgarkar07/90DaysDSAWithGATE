@@ -35,7 +35,11 @@
 |22|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #7|Overlooked comparison to various exponential functions|⬜|🟠|
 |23|13-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #8|Overlooked comparison to various trigonometric functions|⬜|🟠|
 |24|14-01-26|How to Analyze Algorithm \| Analysis of Algorithm Practice Questions on Asymptotic Notations #9|Overlooked factorial notation complexities|⬜|🟠|
-|25|14-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 1|Calculation of time complexity of for loops|⬜|🟠|
+|25|14-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 1|Calculation of time complexity of for loops|⬜|🟢|
+|26|15-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 2|Question practice on loops analysis|⬜|🟢|
+|27|16-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 3|Calculating loops algorithm time complexity|⬜|🟢|
+|28|17-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 4|Time complexity of squaring loops|⬜|🟢|
+|29|18-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 5|Log log n time complexity analysis|⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
