@@ -41,6 +41,7 @@
 |28|17-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 4|Time complexity of squaring loops|⬜|🟢|
 |29|18-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 5|Log log n time complexity analysis|⬜|🟢|
 |30|19-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 6|Time complexity with nested loops; practiced questions|⬜|🟢|
+|31|21-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 7|Continuing with understanding of time complexiti of loop under different conditions|⬜|🟠|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
