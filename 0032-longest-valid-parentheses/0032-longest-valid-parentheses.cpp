@@ -1,6 +1,7 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
+        if (s=="") return 0;
         stack<int> st;
         st.push(-1);
         int valLength=0;
