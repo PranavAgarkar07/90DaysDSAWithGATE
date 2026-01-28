@@ -41,7 +41,15 @@
 |28|17-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 4|Time complexity of squaring loops|⬜|🟢|
 |29|18-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 5|Log log n time complexity analysis|⬜|🟢|
 |30|19-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 6|Time complexity with nested loops; practiced questions|⬜|🟢|
-|31|21-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 7|Continuing with understanding of time complexiti of loop under different conditions|⬜|🟠|
+|31|21-01-26|Finding Time Complexity \| Analysis and Calculation \| Time Complexity of iterative Algo \| part 7|Continuing with understanding of time complexiti of loop under different conditions|⬜|🟢|
+|32|22-01-26|Finding Space Complexity \| Analysis and Calculation \| Iterative Algorithms |How the space complexity is calculated|⬜|🟢|
+|33|23-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 1 |Converting Recursive func to recurrence relation and Solving Further for time complexity|⬜|🟢|
+|34|24-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 2 |Types of recurrence relations |⬜|🟢|
+|35|25-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 3 |Finding Time & Space Complexity of Recursive Function Practice question |⬜|🟢|
+|36|26-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 4 |Variation in recursion questions |⬜|🟢|
+|37|27-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 5 |Space complexity of previous problem |⬜|🟢|
+|38|28-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 6 |Variation in recrsive function and finding time complexity |⬜|🟢|
+|39|29-01-26|*****Finding Space and Time Complexity of Recursive Algorithms \| fibonacci series exact complexity \|#7 |Detailed analysis of Fibonacci series |⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
