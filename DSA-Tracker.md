@@ -50,6 +50,7 @@
 |37|27-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 5 |Space complexity of previous problem |⬜|🟢|
 |38|28-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 6 |Variation in recrsive function and finding time complexity |⬜|🟢|
 |39|29-01-26|*****Finding Space and Time Complexity of Recursive Algorithms \| fibonacci series exact complexity \|#7 |Detailed analysis of Fibonacci series |⬜|🟢|
+|40|30-01-26| Tower of Hanoi solved using Recursion \| Part 1|Understood what the problem is and Defined the goal. Base is ready!|⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
