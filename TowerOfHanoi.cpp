@@ -4,7 +4,7 @@ using namespace std;
 int i=0;
 void toh(int,char,char,char);
 int main() {
-  toh(3,'A','B','C');
+  toh(4,'A','B','C');
   cout<<endl;
   cout<<i<<endl;
   return 0;

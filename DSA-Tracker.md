@@ -51,7 +51,7 @@
 |38|28-01-26|**Finding Space and Time Complexity of Recursive Algorithms \| Analysis and Calculation \| Part 6 |Variation in recrsive function and finding time complexity |⬜|🟢|
 |39|29-01-26|*****Finding Space and Time Complexity of Recursive Algorithms \| fibonacci series exact complexity \|#7 |Detailed analysis of Fibonacci series |⬜|🟢|
 |40|30-01-26| Tower of Hanoi solved using Recursion \| Part 1|Understood what the problem is and Defined the goal. Base is ready!|⬜|🟢|
-|41|31-01-26| Tower of Hanoi solved using Recursion \| Part 2|Implemented and understood Tower of hanoi in cpp|⬜|🟢|
+|41|31-01-26| Tower of Hanoi solved using Recursion \| Part 2|Implemented and understood Tower of hanoi in cpp with 2^n time complexity|⬜|🟢|
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
