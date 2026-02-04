@@ -54,6 +54,7 @@
 |41|31-01-26| Tower of Hanoi solved using Recursion \| Part 2|Implemented and understood Tower of hanoi in cpp with 2^n time complexity|⬜|🟢|
 |42|01-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 1|Overlooked the substitution method for solving RR|⬜|🟠|
 |43|02-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 2|solved a single question only|⬜|🟠|
+|44|03-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 3|More question practice |⬜|🟠
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
