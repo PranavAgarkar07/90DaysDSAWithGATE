@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0389-find-the-difference) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0344-reverse-string) |
 ## Greedy
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
