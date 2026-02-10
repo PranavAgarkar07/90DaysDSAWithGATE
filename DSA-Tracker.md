@@ -56,6 +56,7 @@
 |43|02-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 2|solved a single question only|⬜|🟠|
 |44|03-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 3|More question practice |⬜|🟠
 |45|04-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 4|More question practice on logs|⬜|🟠
+|46|05-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 5|Advanced substitution techniques for solving complex recurrence relations.|⬜|🟠
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
