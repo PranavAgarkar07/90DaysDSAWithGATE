@@ -59,6 +59,7 @@
 |46|05-02-26| SUBSTITUTION METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 5|Advanced substitution techniques for solving complex recurrence relations.|⬜|🟠
 |47|06-02-26| TREE METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 1||⬜|🟠
 |48|07-02-26| TREE METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 2||⬜|🟠
+|49|08-02-26| TREE METHOD FOR SOLVING ANY RECURRENCE IN HINDI \| part 3||⬜|🟠
 <!-- |1| | | | |🟠 ⬜ | -->
 
 ---
