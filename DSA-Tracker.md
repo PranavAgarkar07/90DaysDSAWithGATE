@@ -68,6 +68,6 @@
 ## 🏆 Milestones
 - [x] **10 Videos Completed**
 - [x] **25 Videos Completed**
-- [ ] **50 Videos Completed**
+- [x] **50 Videos Completed**
 - [ ] **100 Videos Completed**
 
