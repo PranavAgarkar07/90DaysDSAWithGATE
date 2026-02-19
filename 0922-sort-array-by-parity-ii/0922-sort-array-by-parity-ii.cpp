@@ -4,7 +4,6 @@ public:
         int size = nums.size();
         vector<int> even;
         vector<int> odd;
-        vector<int> result;
         for (int i = 0; i < size; i++) {
             if (nums[i] % 2 == 0) {
                 even.push_back(nums[i]);
@@ -19,14 +18,13 @@ public:
         for(int i=0;i<size;i++){
             
             if(i%2==0){
-                result.push_back(even[evP]);
-                evP++;
+                nums[i]=even[evP++];
+                
             }
             else{
-                result.push_back(odd[oddP]);
-                oddP++;
+                nums[i]=odd[oddP++];
             }
         }
-        return result;
+        return nums;
     }
 };
