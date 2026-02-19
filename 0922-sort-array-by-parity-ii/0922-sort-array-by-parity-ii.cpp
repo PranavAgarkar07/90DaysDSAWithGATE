@@ -12,7 +12,6 @@ public:
                 odd.push_back(nums[i]);
             }
         }
-        int size2=even.size();
         int evP=0;
         int oddP=0;
         for(int i=0;i<size;i++){
