@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0217-contains-duplicate) |
+| [0506-relative-ranks](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0922-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
