@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0506-relative-ranks) |
 | [0922-sort-array-by-parity-ii](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0922-sort-array-by-parity-ii) |
+| [1748-sum-of-unique-elements](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0389-find-the-difference) |
+| [1748-sum-of-unique-elements](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/PranavAgarkar07/90DaysDSAWithGATE/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
